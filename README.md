@@ -1,5 +1,10 @@
 # apollo-client-python
 
+## 说明
+
+该代码原链接https://github.com/xhrg-product/apollo-client-python
+我只是提供打包功能，方便集成使用，如有任何侵权行为请联系我删除
+
 
 ## 入门使用:
 
